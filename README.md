@@ -1,6 +1,8 @@
 NodeJS MajorDomo Protocol API
 ======================================
 
+# Originally from ryanscdavis/zeromq-mdp-nodejs but that repo disappeared somewhere
+
 A NodeJS implementation of Worker and Client API's of the Majordomo pattern protocol.
 
 Pattern: http://zguide.zeromq.org/page:all#header-99
